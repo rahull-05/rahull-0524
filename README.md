@@ -25,4 +25,8 @@ Here are some ideas to get you started:
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rahull-05/rahull-05/tree/master/0001-two-sum) |
+## Database
+|  |
+| ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/rahull-05/rahull-05/tree/master/0181-employees-earning-more-than-their-managers) |
 <!---LeetCode Topics End-->
